@@ -24,7 +24,9 @@ body {
   width: 100%;
   justify-content: space-between;
 }
-
+.ends{
+  margin: 0 100px;
+}
 
 .contacts_part_one{
   margin-left: 9%;
@@ -120,6 +122,7 @@ header h2{
 .qqq{
   display: flex;
   justify-content: space-evenly;
+  margin: 0 80px;
 }
 
 .r{
@@ -171,14 +174,18 @@ main h1{
   justify-content: center;
 }
 
+.img-div img{
+  display: flex;
+  justify-content: center;
+  width: 1220px;
+}
 .img-div2{
-  margin-left: 500px ;
+  margin-left: 225px ;
   margin-top: 50px;
 }
 
 .main-ul{
-  margin-left: 170px;
-  margin-top: 40px;
+  margin-left: 230px;
 }
 
 .img-1{
@@ -206,6 +213,7 @@ main h1{
 .footer-img{
   display: flex;
   justify-content: space-evenly;
+  margin: 0 195px;
 }
 
 .footer-div1{
@@ -218,7 +226,6 @@ footer h1{
 
 footer a{
   border-radius: 10px;
-  background-color: rgb(255, 196, 0);
 }
 
 .a1:hover{
